@@ -8,5 +8,4 @@ function App() {
     </div>
   );
 }
-//Happy
 export default App;

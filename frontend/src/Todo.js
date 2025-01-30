@@ -122,7 +122,7 @@ export default function Todo() {
 
     return <>
         <div className="row p-3 bg-success text-light text-center">
-            <h1>ToDo Project with MERN stack</h1>
+            <h1>To do List Project with MERN stack</h1>
         </div>
         <div className="row">
             <h3>Add Item</h3>

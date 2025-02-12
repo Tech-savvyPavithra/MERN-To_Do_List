@@ -24,7 +24,7 @@ Prerequisites:
 
 Installation:
 Clone the repository:
-git clone https://github.com/your-username/MERN-To_Do_List.git
+git clone https://github.com/Tech-savvyPavithra/MERN-To_Do_List.git
 cd todolist-mern
 
 Install dependencies for the server:
